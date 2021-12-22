@@ -10,4 +10,4 @@ https://public.tableau.com/app/profile/eser.karaceper/viz/DashboardofAudiobookSa
 
 Aşağıdaki URL'den Türkiye/İstanbul'da yaptığım iş görüşmesine ait proje grafiklerini bulabilirsiniz
 
-https://public.tableau.com/views/Proje_16398145048210/SalesByCounty?:language=en-US&:display_count=n&:origin=viz_share_link
+https://public.tableau.com/views/Proje_16398145048210/MarkettingToolWithSideBySideBar?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
