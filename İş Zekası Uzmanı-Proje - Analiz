@@ -1,0 +1,69 @@
+
+
+İŞ ZEKASI UZMANI 
+İŞE ALIM  ÖN ÇALIŞMA  
+
+
+
+
+Genel Kapsam 
+
+Bu proje A firmasında kullanılmak üzere değil, makro İş Zekası yaklaşımı açısından özelliklerinizi anlamak üzere size sunulmuştur. 
+
+
+ANA HEDEF VE GÖREVLER 	
+
+İşlenecek veriyi Excel dosyası olarak e-postamızın ekinde bulabilirsiniz.
+
+Tablodaki veriler, 2016-06-01 tarihinden sonra www.ilgilisite.com adlı sitemize düşen formlardan oluşmaktadır.  32443 adet veri bulunmaktadır.
+
+Tablo Detayı
+Alan Adı	Veri Türü	Açıklama
+FormID	bigint	Tekrarsız veri
+AdSoyad	nvarchar	 
+Telefon	varchar	 
+Durum	varchar	 
+Satisci	nvarchar	Satışı gerçekleştiren personel
+OdenenTutar	decimal	Tutar 0 ise form için satış gerçekleşmemiştir.
+UtmSource	varchar	Reklam kaynağı
+UtmContent	varchar	Reklam kaynağı detay
+IPGoreUlkeKodu	varchar	Ülke kod
+KayitTarih	datetime	Formun oluşma tarihi
+ 
+1-	Kayıtlı form bilgilerinden, ülkelere göre satış oranı . Örneğin; Irak %2, Ürdün %4 gibi grafiksel analiz.
+
+C1 - Bu grafikte ilk göze çarpan eksik girilen %41’lik veri. Bunun dışında en fazla satışın yapıldığı ülke yaklaşık %18’lik bir satış payı ile IQ (Irak olduğunu varsayıyorum.) Onu takip eden ülkeler sırasıyla JO (Ürdün sanırım), KW, QA, BH, AE (bütün bu ülkelerin Orta Doğuda yer aldığını düşünüyorum. Buradan anlaşılacağı üzere şirket ağırlıklı olarak buradaki pazara yönelik satışlar gerçekleştirmiştir.
+
+2-	Kayıtlı form bilgilerinden, satışçı kişilerin satış oranı. Örneğin; Satışçı - Ahmet %3, Satışçı  - Ayşe %4 gibi grafiksel analiz.
+
+C2 - Bu pie-chartta benim gözüme ilk çarpan şey satışçıların isimleri oldu. Bu isimlerin arapça olduğunu fark ettim. Sanırım 1. Sorudaki arap pazarına niye yoğunlaştırıldığı burada daha açık bir biçimde belli oldu. Satış yüzdelerine gelecek olursak %47 ile Muhammed başı çekiyor onun hemen arkasında %40 ile Tareq ve %12 ile Yamen var.
+
+3-	Kayıtlı form bilgilerinden, ülke ve satışçı personelinin satış oranı. Örneğin  
+         Irak için; Satışçı - Ahmet  %2, Satışçı – Ayşe %4, Ürdün için; Satışçı -  
+         Ahmet  %4, Satışçı – Ayşe %2
+
+C3- Bu grafikte eksik girilen toplamda %41’lik verinin hemen hemen yarı yarıya
+Muhammed ve Tareq’a ait olması aslında beni şaşırtmadı çünkü zaten bu      
+İki isim en fazla satış yüzdelerine sahip isimler. Burada kayda değer olan aslında IQ’da yapılan satışların Yamen’e ait olması ve bu bu beni belki de geriye kalan eksik girişlerin diğer arap ülkelerine ait olma olasılığını arttırdığını söyleyebilirim. Belki de IQ ve JO’dan daha iyi satış yüzdelerine sahip ülkeler olabilir.
+
+4-	Kayıtlı form bilgilerinden, ülke ve reklam kaynağı oranı (Utm Source).   
+         Örneğin Irak için; Google  %2, Facebook %4, Ürdün için; Google  %4,  
+         Facebook %2
+C4- Burada göze çarpan ilk şey ana reklam aracının Google olduğudur. Facebook Google’a göre oldukça düşük gözükmekte. Youtube, Instagram gibi popüler sosyal medya araçlarının bu listede olmaması aslında beni şaşırttı.	
+
+5-	Ek olarak iş geliştirme anlanımda faydalı olacağını düşündüğünüz rapor analizlerini de kendiniz ekleyebilirsiz.
+
+C5- Ben burada hangi satışçının hangi reklam kanalını hangi ağırlıkta anlatmaya çalıştım aslında bir önceki grafikten bunun tahmini yapılabilirdi ama ben biraz oransal bakmak istedim Muhammed ve Tareq aşağı yukarı aynı gözüküyor fakat Yamen yüzdesel olarak neredeyse bu iki arkadaşın yarısından az satış yüzdesi var kullandığı reklam kalemlerini de bu aynı oranda etkilemiş dikkatli bakarsak. Ayrıca bir side-by-side chartta ekledim. 
+Ayrıca aylık olarak toplam satış miktarlarını gösteren bir grafikte oluşturdum. Özellikle Ağustos’tan sonra satış rakamları düşüyor ve yatayı görüyor fakat Aralık ayında çok dramatik bir düşüş gözlemleniyor.
+
+Yukarıda belirtilen raporları Tableau ile hazırlayıp, bizlere 3 gün içerisinde gönderirseniz memnun oluruz.
+
+Tableau 14 günlük ücretsiz deneme sunmaktadır. Veri gönderimi için Tableau public bir alternatif olabilir.
+
+Sorularınız için e-postamızdan bize ulaşabilirsiniz.
+
+Başarılar dileriz. 
+ 
+
+
+
